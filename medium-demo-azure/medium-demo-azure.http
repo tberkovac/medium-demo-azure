@@ -1,0 +1,6 @@
+@medium_demo_azure_HostAddress = http://localhost:5253
+
+GET {{medium_demo_azure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
